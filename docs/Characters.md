@@ -248,4 +248,4 @@
 | Spike | None |
 | Dynamike | None |
 | Poco | None |
-| Max | None |
+| Max | `bsFastGirl` |
